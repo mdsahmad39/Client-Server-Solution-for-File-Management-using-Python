@@ -1,4 +1,4 @@
-A simplified client-server solution for file management
+## A simplified client-server solution for file management
 
 This zip file contains two folders. Client_Code folder contains client code which can be used by any number of cllient's and 
 in Main_Directory, server code's and files which are necessary for implementing this program are present. Please read further how to structure them.
